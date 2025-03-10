@@ -11,8 +11,7 @@ for i in a["Average"]:
             print(f"{a.loc[count,"Name"]} has passed with grade {i}")
         
     else:
-        print(f"{a.loc[count,"Name"]} got a KT, good luck for the next time {i}")
+        print(f"{a.loc[count,"Name"]} got a KT, good luck for the next time")
     count+=1
 
-print("Thank you !!!!")
 print("Note, a student gets KT when his grade is less than 39.9")
