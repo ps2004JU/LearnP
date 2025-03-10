@@ -9,8 +9,8 @@ for i in a["Average"]:
     else:
         if(i==max(a["Average"])):
             top_count=count
-        print(f"Bad luck {a.loc[count,"Name"]} has failed")
+        print(f"{a.loc[count,"Name"]} got a KT, good luck for the next time")
     count+=1
 
 print(f"{a.loc[top_count,"Name"]} is the topper with highest grade as {max(a["Average"])}")
-print("Thank you for sure")
+print("Thank you !!!!")
