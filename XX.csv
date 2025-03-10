@@ -1,9 +1,5 @@
-Sno ,Name,Marks in Cloud,Marks in Python,Marks in Java,Average
-<<<<<<< HEAD
+Sno ,Name ,Marks in Cloud,Marks in Python,Marks in Java,Average
 1,Punya ,123,200,120,147.6666667
-=======
-1,Punya,123,200,120,147.6666667
->>>>>>> devl
 2,Ram,100,130,90,106.6666667
 3,Shyam,121,133,122,125.3333333
 4,Nanda,132,111,131,124.6666667
