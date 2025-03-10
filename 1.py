@@ -1,7 +1,6 @@
 import pandas as pd
 a=pd.read_csv("a1.csv")
 count=0
-x=""
 top_count=0
 for i in a["Average"]:
     if(i>39.99):
