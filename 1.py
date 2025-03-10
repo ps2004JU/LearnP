@@ -15,5 +15,8 @@ for i in a["Average"]:
     count+=1
 
 print("Note, a student gets KT when his grade is less than 39.9")
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> dev3
