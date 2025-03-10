@@ -14,10 +14,6 @@ for i in a["Average"]:
         print(f"{a.loc[count,"Name"]} got a KT, good luck for the next time")
     count+=1
 
-<<<<<<< HEAD
-print("Note, a student gets KT when his grade is less than 39.9")
-=======
 print("Note, a student gets KT when his grade is less than 39.9")
 
 
->>>>>>> dev2
