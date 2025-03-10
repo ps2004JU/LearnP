@@ -5,7 +5,7 @@ x=""
 top_count=0
 for i in a["Average"]:
     if(i>39.99):
-        print(f"{a.loc[count,"Name ]} has passed")
+        print(f"{a.loc[count,"Name"]} has passed")
     else:
         if(i==max(a["Average"])):
             top_count=count
